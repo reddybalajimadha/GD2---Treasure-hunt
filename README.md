@@ -15,5 +15,14 @@ Sami Almalki - samialmalki@callutheran.com
 
 Aryan Desai - 
 
+# Contributiom
+-Reddy Balaji Madha 
+Mostly Coding and Powerpoint
+
+-Ritesh Barapatre
+Coding and Powerpoint
+
+-Sami Almalki
+Coding and Powerpoint
 
 
