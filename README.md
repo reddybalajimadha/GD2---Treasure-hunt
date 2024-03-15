@@ -13,7 +13,7 @@ Ritesh Barapatre  - rbarapatre@callutheran.edu
 
 Sami Almalki - samialmalki@callutheran.com
 
-Aryan Desai - 
+
 
 # Contribution
 -Reddy Balaji Madha 
